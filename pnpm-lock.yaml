@@ -29,6 +29,9 @@ importers:
       '@storybook/web-components-vite':
         specifier: ^8.3.5
         version: 8.3.5(lit@3.2.1)(storybook@8.3.5)(vite@5.4.9(@types/node@22.7.6))
+      chromatic:
+        specifier: ^11.12.6
+        version: 11.12.6
       lit:
         specifier: ^3.2.1
         version: 3.2.1
